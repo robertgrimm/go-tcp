@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+
+# Client binary
+client/client
+
+# Server binary
+server/server
